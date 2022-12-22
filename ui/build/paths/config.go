@@ -105,6 +105,7 @@ var Configuration = map[string]PathConfig{
 	"git":            Allowed,
 	"grep":           Allowed,
 	"hexdump":        Allowed,
+	"install":        Allowed,
 	"jar":            Allowed,
 	"java":           Allowed,
 	"javap":          Allowed,
